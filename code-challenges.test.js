@@ -1,5 +1,5 @@
 // ASSESSMENT 3: Coding Practical Questions with Jest
-
+//
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
