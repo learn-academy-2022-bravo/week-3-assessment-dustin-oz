@@ -165,7 +165,7 @@ const numbersToAdd1 = [2, 4, 45, 9]
 // PSEUDO CODE
 // ----------------------
 // Create a FUNCTION that takes in an ARRAY
-// Establish variable to hold the NEW array
+// Establish VARIABLE to hold the NEW array
 // Return the array and MAP over it while adding each value and adding it to the NEW array
 // IF an empty array is passed in, simpply return the empty NEW array
 
