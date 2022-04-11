@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is `this` in JavaScript?
 
-  Your answer:
+  Your answer: From memory, this is a keyword in Javascript that is used to access values within objects/classes.
 
   Researched answer:
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. What is React? Why would you use it?
 
-  Your answer:
+  Your answer: From memory, React is a Javscript framework used for creating user interfaces. One would use React if they want to quickly spin up a project and value scaleability.
 
   Researched answer:
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. Which lifecycle method is required in a React class component?
 
-  Your answer:
+  Your answer: From memory, I believe the required lifecycle method in this case is the constructor.
 
   Researched answer:
 
@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 4. What is JSX? What is one notable difference between HTML and JSX?
 
-  Your answer:
+  Your answer: From memory, JSX is the marriage of javascript and html. JSX is always wrapped in { }
 
   Researched answer:
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 5. What is yarn? What file(s) are modified in a React application when you run yarn?
 
-  Your answer:
+  Your answer: From memory, yarn is a modern package manager used for managing projects
 
   Researched answer:
 
@@ -49,14 +49,14 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 6. STRETCH: What is an anonymous function in JavaScript?
 
-  Your answer:
+  Your answer: If I remember correctly, an anonymous function is a function without a name, meant to simply run.
 
   Researched answer:
 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering:
+1. Conditional rendering: 
 
 2. Object-oriented programming:
 
